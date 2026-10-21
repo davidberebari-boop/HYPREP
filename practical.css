@@ -1,0 +1,62 @@
+/* GENERAL STYLING */
+* {
+    margin: 5;
+    padding: 5;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1.6;
+    color: #222;
+    background-color: #74526b;
+    
+}
+p {
+    color: white;
+}
+
+ul {
+    color: white;
+}
+
+/* NAVIGATION */
+nav {
+    display: flex;
+    gap: 25px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+
+
+
+
+/* MAIN */
+h1 {
+    color: rgb(109, 29, 29);
+    gap: 50px;
+    word-spacing: 50px;
+    font-weight: bold;
+    width: 20;
+    display: flex;
+     justify-content: center;
+}
+.ofh1 {
+    text-align: center;
+    color: white;
+}
+
+h2 {font-weight: bold;
+    color: rgb(44, 175, 153);
+    word-spacing: 20px;
+}
+
+footer {
+    color: rgb(44, 175, 153);
+}
+
